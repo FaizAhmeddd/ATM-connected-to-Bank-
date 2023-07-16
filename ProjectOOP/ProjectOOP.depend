@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1625321866 source:c:\users\arno\desktop\new folder\4th semester\oop labs\oop project\projectoop\main.cpp
+	<iostream>
+	<cstdlib>
+	"classs.cpp"
+	<fstream>
+
+1625240775 c:\users\arno\desktop\new folder\4th semester\oop labs\oop project\projectoop\class.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string.h>
+
+1625240775 source:c:\users\arno\desktop\new folder\4th semester\oop labs\oop project\projectoop\class.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string.h>
+
+1625239908 c:\users\arno\desktop\new folder\4th semester\oop labs\oop project\projectoop\class2.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string.h>
+
+1625240145 source:c:\users\arno\desktop\new folder\4th semester\oop labs\oop project\projectoop\class2.cpp
+
+1625243687 c:\users\arno\desktop\new folder\4th semester\oop labs\oop project\projectoop\classs.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string.h>
+
+1625767393 source:d:\projectoop\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<exception>
+	"global_Varaible.h"
+	"ACCOUNT.h"
+	"functions.h"
+	"structures.h"
+	"Card.h"
+	"Bank.h"
+
+1625593930 d:\projectoop\classs.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string.h>
+	"Bank.h"
+	<exception>
+
+1625596523 d:\projectoop\include\bank.h
+
+1625512669 source:d:\projectoop\src\bank.cpp
+	"Bank.h"
+
+1625765313 d:\projectoop\include\functions.h
+	<string>
+	"ACCOUNT.h"
+
+1625764769 d:\projectoop\include\account.h
+	"Bank.h"
+	"structures.h"
+	"Card.h"
+
+1625594147 d:\projectoop\include\structures.h
+
+1625758361 d:\projectoop\include\card.h
+	<string>
+
+1625593203 source:d:\projectoop\src\structures.cpp
+
+1625767710 source:d:\projectoop\src\account.cpp
+	"ACCOUNT.h"
+	<cstring>
+	<iostream>
+	"functions.h"
+	<structures.h>
+	"Exception_class.h"
+
+1625758382 source:d:\projectoop\src\card.cpp
+	"Card.h"
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1625768404 source:d:\projectoop\src\functions.cpp
+	"functions.h"
+	<iostream>
+	<fstream>
+	"global_Varaible.h"
+
+1625765861 d:\projectoop\include\global_varaible.h
+	"ACCOUNT.h"
+
+1625765855 source:d:\projectoop\src\global_varaible.cpp
+	"global_Varaible.h"
+
+1625735533 source:d:\projectoop\src\exception_class.cpp
+	"Exception_class.h"
+
+1625674613 d:\projectoop\include\exception_class.h
+	<exception>
+
+1655490775 source:d:\university work\4th semester\c++\oop project\projectoop\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<exception>
+	"global_Varaible.h"
+	"ACCOUNT.h"
+	"functions.h"
+	"structures.h"
+	"Card.h"
+	"Bank.h"
+
+1625809062 d:\university work\4th semester\c++\oop project\projectoop\include\global_varaible.h
+	"ACCOUNT.h"
+
+1625807970 d:\university work\4th semester\c++\oop project\projectoop\include\account.h
+	"Bank.h"
+	"structures.h"
+	"Card.h"
+
+1625639724 d:\university work\4th semester\c++\oop project\projectoop\include\bank.h
+
+1625637348 d:\university work\4th semester\c++\oop project\projectoop\include\structures.h
+
+1625801562 d:\university work\4th semester\c++\oop project\projectoop\include\card.h
+	<string>
+
+1625808514 d:\university work\4th semester\c++\oop project\projectoop\include\functions.h
+	<string>
+	"ACCOUNT.h"
+
+1625810912 source:d:\university work\4th semester\c++\oop project\projectoop\src\account.cpp
+	"ACCOUNT.h"
+	<cstring>
+	<iostream>
+	"functions.h"
+	<structures.h>
+	"Exception_class.h"
+
+1625717814 d:\university work\4th semester\c++\oop project\projectoop\include\exception_class.h
+	<exception>
+
+1625555870 source:d:\university work\4th semester\c++\oop project\projectoop\src\bank.cpp
+	"Bank.h"
+
+1625801584 source:d:\university work\4th semester\c++\oop project\projectoop\src\card.cpp
+	"Card.h"
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1625778734 source:d:\university work\4th semester\c++\oop project\projectoop\src\exception_class.cpp
+	"Exception_class.h"
+
+1625811606 source:d:\university work\4th semester\c++\oop project\projectoop\src\functions.cpp
+	"functions.h"
+	<iostream>
+	<fstream>
+	"global_Varaible.h"
+
+1625809056 source:d:\university work\4th semester\c++\oop project\projectoop\src\global_varaible.cpp
+	"global_Varaible.h"
+
+1625636404 source:d:\university work\4th semester\c++\oop project\projectoop\src\structures.cpp
+
